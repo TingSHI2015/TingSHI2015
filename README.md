@@ -30,6 +30,7 @@
 <a href="https://www.apple.com/macos/"><img alt="macOS" src="https://img.shields.io/badge/-macOS-ffffff?style=for-the-badge&logo=macos&logoColor=000000" /></a>
 <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-ffffff?style=for-the-badge&logo=windows&logoColor=0078D4" /></a>
 <a href="https://kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624" /></a>
+<a href="https://excalidraw.com/"><img alt="Excalidraw" src="https://img.shields.io/badge/-Excalidraw-CA4A91?style=for-the-badge&logo=excalidraw&logoColor=white" /></a>
 
 
 ### Certificates
